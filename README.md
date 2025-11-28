@@ -13,7 +13,7 @@ RF system architecture can be implemented using RF System models available in th
 <img width="619" height="306" alt="image" src="https://github.com/user-attachments/assets/82e56851-716a-455f-aa6c-9a25ebf1b593" />
 
 ## OUTPUT:
-
+ 
 <img width="619" height="475" alt="image" src="https://github.com/user-attachments/assets/18400bc4-b166-4809-a232-3115221101a9" />
 
 **Conclusion:**
